@@ -9,7 +9,7 @@
 
 # WAIT FOR LATEST UPDATES
 
-## JOIN [https://telegra.ph/file/078030b15d2122216d2d0.jpg](HTTPS://T.ME/starz_Support) 
+## JOIN (https://telegra.ph/file/078030b15d2122216d2d0.jpg)](HTTPS://T.ME/starz_Support) 
 
 ## JOIN [@𝕌ℙ𝔻𝔸𝕋𝔼𝕊](HTTPS://T.ME/starz_bots) 
 
