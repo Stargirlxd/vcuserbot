@@ -18,7 +18,6 @@
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/stargirlxd/vcuserbot.svg?logo=lgtm&
 
 # CREDIT
 
