@@ -9,9 +9,8 @@
 
 # WAIT FOR LATEST UPDATES
 
-## JOIN [https://telegra.ph/file/078030b15d2122216d2d0.jpg](HTTPS://T.ME/starz_Support) 
 
-##𝕊𝕌ℙℙ𝕆ℝ𝕋 🦋
+##Sᴜᴘᴘᴏʀᴛ✘🦋
 
 [![SUPPORT CHAT](https://telegra.ph/file/2d03e3781adfe6dfbf7f3.jpg)](https://t.me/STARZ_SUPPORT)
 
