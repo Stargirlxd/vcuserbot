@@ -1,4 +1,6 @@
 
+<h1 align="centre">🎵 STARZ BOTS PROJECTS🎵</h1>
+
 #  𝕍ℂ 𝔹𝕆𝕋
 
 ![LOGO](https://telegra.ph/file/4530647a573ee5010c62a.jpg)
@@ -22,6 +24,10 @@
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
+#### Pmpermit
+- `.yes` - approove someone to pm you
+- `.no` - disapproove someone to pm you
++ Sudo Users can execute any command in any groups
 
 # CREDIT
 
