@@ -1,6 +1,8 @@
 
 #  𝕍ℂ 𝔹𝕆𝕋
 
+![LOGO](https://telegra.ph/file/4530647a573ee5010c62a.jpg)
+
 ## TEᗩᗰ✘ᔕTᗩᖇᘔ
 
 # NOTE JUST AN ENGLISH VERSION OF OUR PRIVATE SOURCE 
