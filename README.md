@@ -12,7 +12,7 @@
 
 
 
-[![SUPPORT CHAT](https://telegra.ph/file/2d03e3781adfe6dfbf7f3.jpg)](https://t.me/STARZ_SUPPORT)
+[![SUPPORT CHAT](https://telegra.ph/file/609a9f674be2121e57f7c.jpg)](https://t.me/STARZ_SUPPORT)
 
 
 # DEPLOY TO HEROKU 
