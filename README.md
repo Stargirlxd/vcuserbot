@@ -3,7 +3,12 @@
 
 ![LOGO](https://telegra.ph/file/4530647a573ee5010c62a.jpg)
 
-## TEᗩᗰ✘ᔕTᗩᖇᘔ
+## TEᗩᗰ✘ᔕTᗩᖇᘔ 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/aRsdC3xpNBFxWel7JU/giphy.gif">
+</p>
+
 
 # NOTE JUST AN ENGLISH VERSION OF OUR PRIVATE SOURCE 
 
