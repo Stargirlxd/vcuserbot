@@ -6,7 +6,7 @@
 ## TEᗩᗰ✘ᔕTᗩᖇᘔ 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/aRsdC3xpNBFxWel7JU/giphy.gif">
+  <img src="https://tenor.com/RKgy.gif">
 </p>
 
 
