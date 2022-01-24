@@ -20,10 +20,7 @@
             "description": "Your API Hash from my.telegram.org",
             "value": ""
 
-           "OWNER_ID": {
-            "description": "fill with your telegram id as the owner of the bot",
-            "required": true,
-            "value": ""
+           
         },
         "APP_ID": {
             "description": "Your APP ID from my.telegram.org",
