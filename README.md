@@ -5,9 +5,6 @@
 
 ## TEᗩᗰ✘ᔕTᗩᖇᘔ 
 
-<p align="center">
-  <img src="https://giphy.com/gifs/D6HkX5PWAsndu">
-</p>
 
 
 # NOTE JUST AN ENGLISH VERSION OF OUR PRIVATE SOURCE 
