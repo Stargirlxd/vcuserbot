@@ -13,11 +13,16 @@
     "success_url": "https://t.me/starz_bots",
     "env": {
         "STRING_SESSION": {
-            "description": "Your pyrogram string session from https://replit.com/@SpEcHiDe/GenerateStringSession",
+            "description": "Your pyrogram string session ",
             "value": ""
         },
         "API_HASH": {
             "description": "Your API Hash from my.telegram.org",
+            "value": ""
+
+           "OWNER_ID": {
+            "description": "fill with your telegram id as the owner of the bot",
+            "required": true,
             "value": ""
         },
         "APP_ID": {
