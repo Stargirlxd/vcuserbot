@@ -11,7 +11,10 @@
 
 ## JOIN [https://telegra.ph/file/078030b15d2122216d2d0.jpg](HTTPS://T.ME/starz_Support) 
 
-## JOIN [@𝕌ℙ𝔻𝔸𝕋𝔼𝕊](HTTPS://T.ME/starz_bots) 
+##𝕊𝕌ℙℙ𝕆ℝ𝕋 🦋
+
+[![SUPPORT CHAT](https://telegra.ph/file/2d03e3781adfe6dfbf7f3.jpg)](https://t.me/STARZ_SUPPORT)
+
 
 # DEPLOY TO HEROKU 
 
