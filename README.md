@@ -10,7 +10,7 @@
 # WAIT FOR LATEST UPDATES
 
 
-##Sᴜᴘᴘᴏʀᴛ✘🦋
+
 
 [![SUPPORT CHAT](https://telegra.ph/file/2d03e3781adfe6dfbf7f3.jpg)](https://t.me/STARZ_SUPPORT)
 
