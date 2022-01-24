@@ -23,6 +23,6 @@
 
 # CREDIT
 
-𝕊𝕋𝔸ℝ𝔾𝕀ℝ𝕃 
+[![Telegram](https://img.shields.io/badge/STARGIRL_XD-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/ITZSTARGIRL)
 
 ℝ𝕆ℂ𝕂𝕊𝕋𝔸ℝ
